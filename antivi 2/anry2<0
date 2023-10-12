@@ -1,0 +1,23 @@
+# Nota: Questo è un esempio estremamente semplificato e non può essere utilizzato come antivirus reale.
+
+import os
+
+def scansione_cartella(cartella):
+    file_infetti = []
+    for root, dirs, files in os.walk(cartella):
+        for file in files:
+            # Simulazione di un falso rilevamento malware
+            if "malware" in file:
+                file_infetti.append(os.path.join(root, file))
+    return file_infetti
+
+if __name__ == "__main__":
+    cartella_da_scansionare = "/percorso/della/cartella"
+    risultati_scansione = scansione_cartella(cartella_da_scansionare)
+
+    if risultati_scansione:
+        print("File infetti trovati:")
+        for file_infetto in risultati_scansione:
+            print(file_infetto)
+    else:
+        print("Nessun file infetto trovato.")
