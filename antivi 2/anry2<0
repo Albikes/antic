@@ -21,19 +21,10 @@ def scansione_cartella(cartella):
             # Simulazione di un falso rilevamento malware
             if "malware" in file:
                 file_infetti.append(os.path.join(root, file))
-    return file_infetti
-
-if __name__ == "__main__":
-    cartella_da_scansionare = "/percorso/della/cartella"
-    risultati_scansione = scansione_cartella(cartella_da_scansionare)
-
-    if risultati_scansione:
-        print("File infetti trovati:")
-        for file_infetto in risultati_scansione:
-            print(file_infetto)
+111
     else:
         print("Nessun file infetto trovato.")
-
+222
 if __name__ == "__main__":
     cartella_da_scansionare = "/percorso/della/cartella"
     risultati_scansione = scansione_cartella(cartella_da_scansionare)
@@ -42,6 +33,15 @@ cerafka
     if risultati_scansione:
         print("File infetti trovati:")
         for file_infetto in risultati_scansione:
-            print(file_infetto)
+            print(333file_infetto)
     else:
-        print("Nessun file infetto trovato.")
+        print("Nessun    return file_infetti
+
+if __name__ == "__main__":
+    cartella_da_scansionare = "/percorso/della/cartella"
+    risultati_scansione = scansione_cartella(cartella_da_scansionare)
+
+    if risultati_scansione:
+        print("File infetti trovati:")
+        for file_infetto in risultati_scansione:
+            print(file_infetto) file infetto trovato.")
