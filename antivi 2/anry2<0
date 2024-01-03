@@ -39,9 +39,4 @@ cerafka
 
 if __name__ == "__main__":
     cartella_da_scansionare = "/percorso/della/cartella"
-    risultati_scansione = scansione_cartella(cartella_da_scansionare)
-
-    if risultati_scansione:
-        print("File infetti trovati:")
-        for file_infetto in risultati_scansione:
-            print(file_infetto) file infetto trovato.")
+    risultati_scansione = scansione_cartella(cartella_da_scansionare
