@@ -2,18 +2,7 @@
 
 import os
 
-def scansione_cartella(cartella):
-    file_infetti = []
-    for root, dirs, files in os.walk(cartella):
-        for file in files:
-            # Simulazione di un falso rilevamento malware
-            if "malware" in file:
-                file_infetti.append(os.path.join(root, file))
-    return file_infetti
-# Nota: Questo è un esempio estremamente semplificato e non può essere utilizzato come antivirus reale.
-
-import os
-
+def scansione_cartell
 def scansione_cartella(cartella):
     file_infetti = []
     for root, dirs, files in os.walk(cartella):
