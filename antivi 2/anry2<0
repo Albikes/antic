@@ -6,12 +6,6 @@ def scansione_cartell
 def scansione_cartella(cartella):
     file_infetti = []
     for root, dirs, files in os.walk(cartella):
-        for file in files:
-            # Simulazione di un falso rilevamento malware
-            if "malware" in file:
-                file_infetti.append(os.path.join(root, file))
-111
-    else:
         print("Nessun file infetto trovato.")
 222
 if __name__ == "__main__":
