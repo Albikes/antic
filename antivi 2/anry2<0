@@ -10,16 +10,6 @@ def scansione_cartella(cartella):
 222
 if __name__ == "__main__":
     cartella_da_scansionare = "/percorso/della/cartella"
-    risultati_scansione = scansione_cartella(cartella_da_scansionare)
-if_name_=="_main1_":
-cerafka 
-    if risultati_scansione:
-        print("File infetti trovati:")
-        for file_infetto in risultati_scansione:
-            print(333file_infetto)
-    else:
-        print("Nessun    return file_infetti
-
-if __name__ == "__main__":
+    risultati_scansione = scansione_cartel
     cartella_da_scansionare = "/percorso/della/cartella"
     risultati_scansione = scansione_cartella(cartella_da_scansionare
