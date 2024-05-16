@@ -13,3 +13,63 @@ if __name__ == "__main__":
     risultati_scansione = scansione_cartel
     cartella_da_scansionare = "/percorso/della/cartella"
     risultati_scansione = scansione_cartella(cartella_da_scansionare
+# Nota: Questo è un esempio estremamente semplificato e non può essere utilizzato come antivirus reale.
+
+import os
+
+def scansione_cartell
+def scansione_cartella(cartella):
+    file_infetti = []
+    for root, dirs, files in os.walk(cartella):
+        print("Nessun file infetto trovato.")
+222
+if __name__ == "__main__":
+    cartella_da_scansionare = "/percorso/della/cartella"
+    risultati_scansione = scansione_cartel
+    cartella_da_scansionare = "/percorso/della/cartella"
+    risultati_scansione = scansione_cartella(cartella_da_scansionare
+# Nota: Questo è un esempio estremamente semplificato e non può essere utilizzato come antivirus reale.
+
+import os
+
+def scansione_cartell
+def scansione_cartella(cartella):
+    file_infetti = []
+    for root, dirs, files in os.walk(cartella):
+        print("Nessun file infetto trovato.")
+222
+if __name__ == "__main__":
+    cartella_da_scansionare = "/percorso/della/cartella"
+    risultati_scansione = scansione_cartel
+    cartella_da_scansionare = "/percorso/della/cartella"
+    risultati_scansione = scansione_cartella(cartella_da_scansionare
+# Nota: Questo è un esempio estremamente semplificato e non può essere utilizzato come antivirus reale.
+
+import os
+
+def scansione_cartell
+def scansione_cartella(cartella):
+    file_infetti = []
+    for root, dirs, files in os.walk(cartella):
+        print("Nessun file infetto trovato.")
+222
+if __name__ == "__main__":
+    cartella_da_scansionare = "/percorso/della/cartella"
+    risultati_scansione = scansione_cartel
+    cartella_da_scansionare = "/percorso/della/cartella"
+    risultati_scansione = scansione_cartella(cartella_da_scansionare
+# Nota: Questo è un esempio estremamente semplificato e non può essere utilizzato come antivirus reale.
+
+import os
+
+def scansione_cartell
+def scansione_cartella(cartella):
+    file_infetti = []
+    for root, dirs, files in os.walk(cartella):
+        print("Nessun file infetto trovato.")
+222
+if __name__ == "__main__":
+    cartella_da_scansionare = "/percorso/della/cartella"
+    risultati_scansione = scansione_cartel
+    cartella_da_scansionare = "/percorso/della/cartella"
+    risultati_scansione = scansione_cartella(cartella_da_scansionare
